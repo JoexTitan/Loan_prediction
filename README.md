@@ -1,5 +1,5 @@
 IMG 1
-<img src="img/PSA0.JPG">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img1.png">
 
 ## INTRODUCTION
 
@@ -14,7 +14,7 @@ There is a total of 614 rows and 13 columns in our data set of which 8 are categ
 
 The dataset attributes are listed below along with their descriptions.
 
-IMG 2
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img2.png">
 
 
 ## GETTING STARTED
@@ -28,46 +28,64 @@ For this we will be looking at the following machine learning models:
 * Random Forest
 * Gradient Boost
 
-## IMPORT MODULES
+## IMPORTING MODULES
 
-IMG 3
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img3.JPG">
 
 ## PROPRIETARY ANALYSIS
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img4.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img5.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img6.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img7.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img8.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img9.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img10.png">
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img11.png" /></p>
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img12.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img13.png">
+<img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img14.png">
 
-IMAGES 4-17
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img15.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img16.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img17.png" /></p>
 
 ## PREPROCESSING THE DATA
-
-
-IMAGES 18-19
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img18.JPG" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img19.png" /></p>
 
 ## BEFORE SKEWNESS REDUCTION TREATMENT
 
-20
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img20.png" /></p>
 
 ## AFTER SKEWNESS REDUCTION TREATMENT
 
-21
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img21.png" /></p>
 
 ## CORRELATION MATRIX
 
-22
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img22.JPG" /></p>
 
 ## FEATURE SEPARATION
 
-23
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img23.JPG" /></p>
 
 ## Logistic Regression
-24
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img24.JPG" /></p>
+
 ## K-Nearest Neighbour (KNN)
-25
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img25.JPG" /></p>
+
 ## Support Vector Machine (SVM)
-26
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img26.JPG" /></p>
+
 ## Decision Tree
-27
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img27.JPG" /></p>
+
 ## Random Forest
-28
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img28.JPG" /></p>
+
 ## Gradient Boosting
-29
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img29.JPG" /></p>
+
 ## Model Performance Comparison
-30
+<p align="center"><img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img30.JPG" /></p>
