@@ -1,4 +1,3 @@
-IMG 1
 <img src="https://raw.githubusercontent.com/JoexTitan/RFLP-Prediction-Model/main/Visuals/img1.png">
 
 ## INTRODUCTION
